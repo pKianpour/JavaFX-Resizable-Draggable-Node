@@ -13,7 +13,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
-        primaryStage.setTitle("Drag Resize Demo");
+        primaryStage.setTitle("Drag Resize Demoooo");
         Pane root = new Pane();
 
         Rectangle rectangle = new Rectangle(50, 50);
